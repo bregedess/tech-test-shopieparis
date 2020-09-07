@@ -1,0 +1,1 @@
+SET OUTPUT_PATH=output.txt
